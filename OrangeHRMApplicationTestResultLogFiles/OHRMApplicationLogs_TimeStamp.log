@@ -1,0 +1,265 @@
+2024-03-05 13:01:09,232 - Log -INFO - *****Chrome Browser Launch Successfully***********
+2024-03-05 13:01:09,301 - Log -INFO - *****Chrome Browser Launch Successfully***********
+2024-03-05 13:01:09,443 - Log -INFO - *****Chrome Browser Launch Successfully***********
+2024-03-05 13:01:09,882 - Log -INFO - Navigated to OrangeHRM Application WebPage
+2024-03-05 13:01:10,383 - Log -INFO - Navigated to OrangeHRM Application WebPage
+2024-03-05 13:01:10,446 - Log -INFO - Navigated to OrangeHRM Application WebPage
+2024-03-05 13:01:10,818 - Log -INFO - orangeHRM
+2024-03-05 13:01:10,834 - Log -INFO - OrangeHRM
+2024-03-05 13:01:10,837 - Log -INFO - fail
+2024-03-05 13:01:10,889 - Log -INFO - orangeHRM
+2024-03-05 13:01:10,906 - Log -INFO - OrangeHRM
+2024-03-05 13:01:10,909 - Log -INFO - fail
+2024-03-05 13:01:11,042 - Log -INFO - mounika
+2024-03-05 13:01:11,126 - Log -INFO - Mounika@123
+2024-03-05 13:01:12,931 - Log -INFO - Admin
+2024-03-05 13:01:12,935 - Log -INFO - pass
+2024-03-05 13:01:12,938 - Log -INFO - Invalid Credentials
+2024-03-05 13:01:12,940 - Log -INFO - Valid Credentials
+2024-03-05 13:01:12,942 - Log -INFO - fail
+2024-03-05 13:01:13,068 - Log -INFO - pass
+2024-03-05 13:01:13,072 - Log -INFO - fail
+2024-03-05 13:01:14,070 - Log -INFO - orangeHRM
+2024-03-05 13:01:14,095 - Log -INFO - OrangeHRM
+2024-03-05 13:01:14,097 - Log -INFO - Add Employee
+2024-03-05 13:01:14,103 - Log -INFO - fail
+2024-03-05 13:01:14,106 - Log -INFO - Add Employee
+2024-03-05 13:01:14,107 - Log -INFO - pass
+2024-03-05 13:01:14,174 - Log -INFO - Mounika
+2024-03-05 13:01:14,273 - Log -INFO -  mouni@0000
+2024-03-05 13:01:14,403 - Log -INFO - 0319
+2024-03-05 13:01:14,557 - Log -INFO - 0038 
+2024-03-05 13:01:14,596 - Log -INFO - Mahi priya 
+2024-03-05 13:01:14,612 - Log -INFO - Nadipudi 
+2024-03-05 13:01:14,657 - Log -INFO - 0041 
+2024-03-05 13:01:14,673 - Log -INFO - Mahi priya 
+2024-03-05 13:01:14,775 - Log -INFO - Nadipudi 
+2024-03-05 13:01:14,824 - Log -INFO - 0043 
+2024-03-05 13:01:14,854 - Log -INFO - Mahi priya 
+2024-03-05 13:01:14,868 - Log -INFO - Nadipudi 
+2024-03-05 13:01:14,890 - Log -INFO - 0046 
+2024-03-05 13:01:14,913 - Log -INFO - Mahi priya 
+2024-03-05 13:01:14,928 - Log -INFO - Nadipudi 
+2024-03-05 13:01:14,960 - Log -INFO - 0049 
+2024-03-05 13:01:14,985 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,008 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,044 - Log -INFO - 0052 
+2024-03-05 13:01:15,057 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,073 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,095 - Log -INFO - 0055 
+2024-03-05 13:01:15,109 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,123 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,159 - Log -INFO - 0058 
+2024-03-05 13:01:15,174 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,206 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,233 - Log -INFO - 0061 
+2024-03-05 13:01:15,249 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,267 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,294 - Log -INFO - 0064 
+2024-03-05 13:01:15,307 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,319 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,344 - Log -INFO - 0067 
+2024-03-05 13:01:15,358 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,370 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,397 - Log -INFO - 0070 
+2024-03-05 13:01:15,411 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,426 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,448 - Log -INFO - 0073 
+2024-03-05 13:01:15,463 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,475 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,494 - Log -INFO - 0076 
+2024-03-05 13:01:15,506 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,519 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,540 - Log -INFO - 0079 
+2024-03-05 13:01:15,549 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,557 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,572 - Log -INFO - 0082 
+2024-03-05 13:01:15,586 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,607 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,637 - Log -INFO - 0085 
+2024-03-05 13:01:15,652 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,658 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,683 - Log -INFO - 0088 
+2024-03-05 13:01:15,692 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,701 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,718 - Log -INFO - 0091 
+2024-03-05 13:01:15,728 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,736 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,751 - Log -INFO - 0094 
+2024-03-05 13:01:15,759 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,766 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,784 - Log -INFO - 0097 
+2024-03-05 13:01:15,791 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,800 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,817 - Log -INFO - 0100 
+2024-03-05 13:01:15,824 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,833 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,848 - Log -INFO - 0132 
+2024-03-05 13:01:15,857 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,870 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,883 - Log -INFO - 0135 
+2024-03-05 13:01:15,890 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,901 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,914 - Log -INFO - 0161 
+2024-03-05 13:01:15,921 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,929 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,941 - Log -INFO - 0164 
+2024-03-05 13:01:15,951 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,960 - Log -INFO - Nadipudi 
+2024-03-05 13:01:15,975 - Log -INFO - 0175 
+2024-03-05 13:01:15,986 - Log -INFO - Mahi priya 
+2024-03-05 13:01:15,996 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,012 - Log -INFO - 0179 
+2024-03-05 13:01:16,021 - Log -INFO - Mahi priya 
+2024-03-05 13:01:16,029 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,049 - Log -INFO - 0182 
+2024-03-05 13:01:16,067 - Log -INFO - Mahi priya 
+2024-03-05 13:01:16,083 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,133 - Log -INFO - 0188 
+2024-03-05 13:01:16,149 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,161 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,179 - Log -INFO - 0191 
+2024-03-05 13:01:16,190 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,202 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,226 - Log -INFO - 0194 
+2024-03-05 13:01:16,237 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,248 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,265 - Log -INFO - 0197 
+2024-03-05 13:01:16,275 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,284 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,298 - Log -INFO - 0200 
+2024-03-05 13:01:16,307 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,319 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,337 - Log -INFO - 0203 
+2024-03-05 13:01:16,348 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,360 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,381 - Log -INFO - 0206 
+2024-03-05 13:01:16,391 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,402 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,419 - Log -INFO - 0209 
+2024-03-05 13:01:16,432 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,441 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,459 - Log -INFO - 0212 
+2024-03-05 13:01:16,467 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,476 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,492 - Log -INFO - 0215 
+2024-03-05 13:01:16,502 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,513 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,528 - Log -INFO - 0218 
+2024-03-05 13:01:16,534 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,544 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,562 - Log -INFO - 0221 
+2024-03-05 13:01:16,571 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,581 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,603 - Log -INFO - 0224 
+2024-03-05 13:01:16,611 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,620 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,637 - Log -INFO - 0227 
+2024-03-05 13:01:16,647 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,654 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,671 - Log -INFO - 0230 
+2024-03-05 13:01:16,686 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,698 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,719 - Log -INFO - 0233 
+2024-03-05 13:01:16,737 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,749 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,767 - Log -INFO - 0236 
+2024-03-05 13:01:16,776 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,788 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,806 - Log -INFO - 0239 
+2024-03-05 13:01:16,815 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,831 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,851 - Log -INFO - 0242 
+2024-03-05 13:01:16,862 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,871 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,890 - Log -INFO - 0245 
+2024-03-05 13:01:16,898 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,907 - Log -INFO - Nadipudi 
+2024-03-05 13:01:16,924 - Log -INFO - 0248 
+2024-03-05 13:01:16,934 - Log -INFO - Madhu priya 
+2024-03-05 13:01:16,944 - Log -INFO - Nadipudi 
+2024-03-05 13:01:17,313 - Log -INFO -  **** Chrome Browser along with the Application Closed Successfully ****
+2024-03-05 13:01:21,643 - Log -INFO - Mounika
+2024-03-05 13:01:21,672 - Log -INFO - Sri
+2024-03-05 13:01:21,695 - Log -INFO - Srungavruksham
+2024-03-05 13:01:21,716 - Log -INFO - 0319
+2024-03-05 13:01:22,210 - Log -INFO - 0320
+2024-03-05 13:01:25,919 - Log -INFO -  mouni@0000
+2024-03-05 13:01:25,921 - Log -INFO - LOGIN Panel
+2024-03-05 13:01:25,922 - Log -INFO - fail
+2024-03-05 13:01:25,943 - Log -INFO -  mouni@0000
+2024-03-05 13:01:25,946 - Log -INFO - Invalid credentials
+2024-03-05 13:01:25,947 - Log -INFO - pass
+2024-03-05 13:01:25,951 - Log -INFO - orangeHRM
+2024-03-05 13:01:25,956 - Log -INFO - OrangeHRM
+2024-03-05 13:01:25,958 - Log -INFO - fail
+2024-03-05 13:01:26,026 - Log -INFO - admin
+2024-03-05 13:01:26,091 - Log -INFO -  mahi222
+2024-03-05 13:01:29,941 - Log -INFO - Madhu
+2024-03-05 13:01:29,956 - Log -INFO - priya
+2024-03-05 13:01:29,973 - Log -INFO - Nadipudi
+2024-03-05 13:01:29,988 - Log -INFO - 0320
+2024-03-05 13:01:30,471 - Log -INFO - 0321
+2024-03-05 13:01:36,694 - Log -INFO -  mahi222
+2024-03-05 13:01:36,696 - Log -INFO - LOGIN Panel
+2024-03-05 13:01:36,697 - Log -INFO - fail
+2024-03-05 13:01:36,715 - Log -INFO -  mahi222
+2024-03-05 13:01:36,716 - Log -INFO - Invalid credentials
+2024-03-05 13:01:36,719 - Log -INFO - pass
+2024-03-05 13:01:36,721 - Log -INFO - orangeHRM
+2024-03-05 13:01:36,726 - Log -INFO - OrangeHRM
+2024-03-05 13:01:36,728 - Log -INFO - fail
+2024-03-05 13:01:36,787 - Log -INFO - mounika
+2024-03-05 13:01:36,841 - Log -INFO - Mounika@123
+2024-03-05 13:01:37,631 - Log -INFO - Mahitha
+2024-03-05 13:01:37,647 - Log -INFO - Sri
+2024-03-05 13:01:37,664 - Log -INFO - Thupakula
+2024-03-05 13:01:37,681 - Log -INFO - 0321
+2024-03-05 13:01:38,007 - Log -INFO - Admin
+2024-03-05 13:01:38,009 - Log -INFO - pass
+2024-03-05 13:01:38,011 - Log -INFO - Invalid Credentials
+2024-03-05 13:01:38,013 - Log -INFO - Valid Credentials
+2024-03-05 13:01:38,015 - Log -INFO - fail
+2024-03-05 13:01:38,105 - Log -INFO - Personal Details
+2024-03-05 13:01:38,106 - Log -INFO - Personal Details
+2024-03-05 13:01:38,107 - Log -INFO - pass
+2024-03-05 13:01:38,111 - Log -INFO - pass
+2024-03-05 13:01:38,114 - Log -INFO - pass
+2024-03-05 13:01:38,116 - Log -INFO - pass
+2024-03-05 13:01:38,118 - Log -INFO - 0319
+2024-03-05 13:01:38,119 - Log -INFO - 0319
+2024-03-05 13:01:38,120 - Log -INFO - 0319
+2024-03-05 13:01:38,122 - Log -INFO - Personal Details
+2024-03-05 13:01:38,123 - Log -INFO - Personal Details
+2024-03-05 13:01:38,125 - Log -INFO - pass
+2024-03-05 13:01:38,127 - Log -INFO - pass
+2024-03-05 13:01:38,130 - Log -INFO - pass
+2024-03-05 13:01:38,132 - Log -INFO - pass
+2024-03-05 13:01:38,134 - Log -INFO - 0320
+2024-03-05 13:01:38,136 - Log -INFO - 0320
+2024-03-05 13:01:38,138 - Log -INFO - 0320
+2024-03-05 13:01:38,140 - Log -INFO - Personal Details
+2024-03-05 13:01:38,148 - Log -INFO - Personal Details
+2024-03-05 13:01:38,150 - Log -INFO - pass
+2024-03-05 13:01:38,152 - Log -INFO - pass
+2024-03-05 13:01:38,153 - Log -INFO - pass
+2024-03-05 13:01:38,156 - Log -INFO - pass
+2024-03-05 13:01:38,160 - Log -INFO - 0321
+2024-03-05 13:01:38,163 - Log -INFO - 0321
+2024-03-05 13:01:38,165 - Log -INFO - 0321
+2024-03-05 13:01:38,760 - Log -INFO - orangeHRM
+2024-03-05 13:01:38,772 - Log -INFO - OrangeHRM
+2024-03-05 13:01:38,777 - Log -INFO - fail
+2024-03-05 13:01:38,822 - Log -INFO - super
+2024-03-05 13:01:38,902 - Log -INFO -  mahesh Babu
+2024-03-05 13:01:38,921 - Log -INFO - LOGIN Panel
+2024-03-05 13:01:38,922 - Log -INFO - LOGIN Panel
+2024-03-05 13:01:38,924 - Log -INFO - pass
+2024-03-05 13:01:39,104 - Log -INFO -  **** Chrome Browser along with the Application Closed Successfully ****
+2024-03-05 13:01:49,446 - Log -INFO -  mahesh Babu
+2024-03-05 13:01:49,447 - Log -INFO - LOGIN Panel
+2024-03-05 13:01:49,449 - Log -INFO - fail
+2024-03-05 13:01:49,465 - Log -INFO -  mahesh Babu
+2024-03-05 13:01:49,466 - Log -INFO - Invalid credentials
+2024-03-05 13:01:49,467 - Log -INFO - pass
+2024-03-05 13:01:49,636 - Log -INFO -  **** Chrome Browser along with the Application Closed Successfully ****

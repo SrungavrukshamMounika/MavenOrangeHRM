@@ -1,0 +1,265 @@
+[TestNG-tests-3] INFO Log - *****Chrome Browser Launch Successfully***********
+[TestNG-tests-1] INFO Log - *****Chrome Browser Launch Successfully***********
+[TestNG-tests-2] INFO Log - *****Chrome Browser Launch Successfully***********
+[TestNG-tests-1] INFO Log - Navigated to OrangeHRM Application WebPage
+[TestNG-tests-2] INFO Log - Navigated to OrangeHRM Application WebPage
+[TestNG-tests-3] INFO Log - Navigated to OrangeHRM Application WebPage
+[TestNG-tests-2] INFO Log - orangeHRM
+[TestNG-tests-2] INFO Log - OrangeHRM
+[TestNG-tests-2] INFO Log - fail
+[TestNG-tests-1] INFO Log - orangeHRM
+[TestNG-tests-1] INFO Log - OrangeHRM
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-1] INFO Log - mounika
+[TestNG-tests-1] INFO Log - Mounika@123
+[TestNG-tests-1] INFO Log - Admin
+[TestNG-tests-1] INFO Log - pass
+[TestNG-tests-1] INFO Log - Invalid Credentials
+[TestNG-tests-1] INFO Log - Valid Credentials
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - fail
+[TestNG-tests-1] INFO Log - orangeHRM
+[TestNG-tests-1] INFO Log - OrangeHRM
+[TestNG-tests-2] INFO Log - Add Employee
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-2] INFO Log - Add Employee
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-1] INFO Log - Mounika
+[TestNG-tests-1] INFO Log -  mouni@0000
+[TestNG-tests-2] INFO Log - 0319
+[TestNG-tests-3] INFO Log - 0038 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0041 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0043 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0046 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0049 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0052 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0055 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0058 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0061 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0064 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0067 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0070 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0073 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0076 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0079 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0082 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0085 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0088 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0091 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0094 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0097 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0100 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0132 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0135 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0161 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0164 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0175 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0179 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0182 
+[TestNG-tests-3] INFO Log - Mahi priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0188 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0191 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0194 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0197 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0200 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0203 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0206 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0209 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0212 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0215 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0218 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0221 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0224 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0227 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0230 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0233 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0236 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0239 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0242 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0245 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log - 0248 
+[TestNG-tests-3] INFO Log - Madhu priya 
+[TestNG-tests-3] INFO Log - Nadipudi 
+[TestNG-tests-3] INFO Log -  **** Chrome Browser along with the Application Closed Successfully ****
+[TestNG-tests-2] INFO Log - Mounika
+[TestNG-tests-2] INFO Log - Sri
+[TestNG-tests-2] INFO Log - Srungavruksham
+[TestNG-tests-2] INFO Log - 0319
+[TestNG-tests-2] INFO Log - 0320
+[TestNG-tests-1] INFO Log -  mouni@0000
+[TestNG-tests-1] INFO Log - LOGIN Panel
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-1] INFO Log -  mouni@0000
+[TestNG-tests-1] INFO Log - Invalid credentials
+[TestNG-tests-1] INFO Log - pass
+[TestNG-tests-1] INFO Log - orangeHRM
+[TestNG-tests-1] INFO Log - OrangeHRM
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-1] INFO Log - admin
+[TestNG-tests-1] INFO Log -  mahi222
+[TestNG-tests-2] INFO Log - Madhu
+[TestNG-tests-2] INFO Log - priya
+[TestNG-tests-2] INFO Log - Nadipudi
+[TestNG-tests-2] INFO Log - 0320
+[TestNG-tests-2] INFO Log - 0321
+[TestNG-tests-1] INFO Log -  mahi222
+[TestNG-tests-1] INFO Log - LOGIN Panel
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-1] INFO Log -  mahi222
+[TestNG-tests-1] INFO Log - Invalid credentials
+[TestNG-tests-1] INFO Log - pass
+[TestNG-tests-1] INFO Log - orangeHRM
+[TestNG-tests-1] INFO Log - OrangeHRM
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-1] INFO Log - mounika
+[TestNG-tests-1] INFO Log - Mounika@123
+[TestNG-tests-2] INFO Log - Mahitha
+[TestNG-tests-2] INFO Log - Sri
+[TestNG-tests-2] INFO Log - Thupakula
+[TestNG-tests-2] INFO Log - 0321
+[TestNG-tests-1] INFO Log - Admin
+[TestNG-tests-1] INFO Log - pass
+[TestNG-tests-1] INFO Log - Invalid Credentials
+[TestNG-tests-1] INFO Log - Valid Credentials
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-2] INFO Log - Personal Details
+[TestNG-tests-2] INFO Log - Personal Details
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - 0319
+[TestNG-tests-2] INFO Log - 0319
+[TestNG-tests-2] INFO Log - 0319
+[TestNG-tests-2] INFO Log - Personal Details
+[TestNG-tests-2] INFO Log - Personal Details
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - 0320
+[TestNG-tests-2] INFO Log - 0320
+[TestNG-tests-2] INFO Log - 0320
+[TestNG-tests-2] INFO Log - Personal Details
+[TestNG-tests-2] INFO Log - Personal Details
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log - 0321
+[TestNG-tests-2] INFO Log - 0321
+[TestNG-tests-2] INFO Log - 0321
+[TestNG-tests-1] INFO Log - orangeHRM
+[TestNG-tests-1] INFO Log - OrangeHRM
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-1] INFO Log - super
+[TestNG-tests-1] INFO Log -  mahesh Babu
+[TestNG-tests-2] INFO Log - LOGIN Panel
+[TestNG-tests-2] INFO Log - LOGIN Panel
+[TestNG-tests-2] INFO Log - pass
+[TestNG-tests-2] INFO Log -  **** Chrome Browser along with the Application Closed Successfully ****
+[TestNG-tests-1] INFO Log -  mahesh Babu
+[TestNG-tests-1] INFO Log - LOGIN Panel
+[TestNG-tests-1] INFO Log - fail
+[TestNG-tests-1] INFO Log -  mahesh Babu
+[TestNG-tests-1] INFO Log - Invalid credentials
+[TestNG-tests-1] INFO Log - pass
+[TestNG-tests-1] INFO Log -  **** Chrome Browser along with the Application Closed Successfully ****

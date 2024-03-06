@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-OrangeHRMapplication" class="navigator-link">
+              <span class="suite-name border-passed">OrangeHRMapplication</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-OrangeHRMapplication" class="navigator-link ">
+                    <span>C:\Users\Mounika\eclipse-workspace\MavenOrangeHRM\TestNG.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-OrangeHRMapplication" class="navigator-link ">
+                    <span class="test-stats">3 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-OrangeHRMapplication" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-OrangeHRMapplication" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-OrangeHRMapplication" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-OrangeHRMapplication" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-OrangeHRMapplication" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">14 methods,   14 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-OrangeHRMapplication" class="hide-methods passed suite-OrangeHRMapplication"> (hide)</a> <!-- hide-methods passed suite-OrangeHRMapplication -->
+                      <a href="#" panel-name="suite-OrangeHRMapplication" class="show-methods passed suite-OrangeHRMapplication"> (show)</a> <!-- show-methods passed suite-OrangeHRMapplication -->
+                    </span>
+                    <div class="method-list-content passed suite-OrangeHRMapplication">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest" class="method navigator-link" hash-for-method="OHRMApplicaationData">OHRMApplicaationData</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest" class="method navigator-link" hash-for-method="OHRMApplicationData">OHRMApplicationData</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="OrangeHRMHomePageTextAdmin">OrangeHRMHomePageTextAdmin</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="OrangeHRMPIMPage">OrangeHRMPIMPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="OrangeHRMTitle">OrangeHRMTitle</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="OrangeHRMlogindetails">OrangeHRMlogindetails</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="ValidatingTheEmployeeDetails">ValidatingTheEmployeeDetails</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="addEmployeeValidating">addEmployeeValidating</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest" class="method navigator-link" hash-for-method="capturingAddEmployeeList">capturingAddEmployeeList</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="loginPanelText">loginPanelText</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="loginTheOrangeHRM">loginTheOrangeHRM</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="logoutFunctionality">logoutFunctionality</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest" class="method navigator-link" hash-for-method="validatingAddEmployeeDetails">validatingAddEmployeeDetails</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-OrangeHRMapplication" title="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest" class="method navigator-link" hash-for-method="validatingOHRMData">validatingOHRMData</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-OrangeHRMapplication -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-OrangeHRMapplication" class="panel OrangeHRMapplication">
+          <div class="suite-OrangeHRMapplication-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrangeHRMHomePageTextAdmin">
+                  </a> <!-- OrangeHRMHomePageTextAdmin -->
+                  <span class="method-name">OrangeHRMHomePageTextAdmin</span>
+                  <em>
+(OrangeHRM Home Page Text Admin)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrangeHRMPIMPage">
+                  </a> <!-- OrangeHRMPIMPage -->
+                  <span class="method-name">OrangeHRMPIMPage</span>
+                  <em>
+(OrangeHRM PIM Page)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrangeHRMTitle">
+                  </a> <!-- OrangeHRMTitle -->
+                  <span class="method-name">OrangeHRMTitle</span>
+                  <em>
+(OrangeHRM Application Title Validating)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OrangeHRMlogindetails">
+                  </a> <!-- OrangeHRMlogindetails -->
+                  <span class="method-name">OrangeHRMlogindetails</span>
+                  <em>
+(OrangeHRM Application Login Details)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ValidatingTheEmployeeDetails">
+                  </a> <!-- ValidatingTheEmployeeDetails -->
+                  <span class="method-name">ValidatingTheEmployeeDetails</span>
+                  <em>
+(Validating the Employee Details)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="addEmployeeValidating">
+                  </a> <!-- addEmployeeValidating -->
+                  <span class="method-name">addEmployeeValidating</span>
+                  <em>
+(Add Employee Validating)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginPanelText">
+                  </a> <!-- loginPanelText -->
+                  <span class="method-name">loginPanelText</span>
+                  <em>
+(OrangeHRM Login Page LOGIN Panel Text)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginTheOrangeHRM">
+                  </a> <!-- loginTheOrangeHRM -->
+                  <span class="method-name">loginTheOrangeHRM</span>
+                  <em>
+(OrangeHRM LoginPage Login)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="logoutFunctionality">
+                  </a> <!-- logoutFunctionality -->
+                  <span class="method-name">logoutFunctionality</span>
+                  <em>
+(OrangeHRM Home Page LogOut Functionality)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validatingAddEmployeeDetails">
+                  </a> <!-- validatingAddEmployeeDetails -->
+                  <span class="method-name">validatingAddEmployeeDetails</span>
+                  <em>
+(validating Add Employee Details)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-OrangeHRMapplication-class-passed -->
+          <div class="suite-OrangeHRMapplication-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="OHRMApplicaationData">
+                  </a> <!-- OHRMApplicaationData -->
+                  <span class="method-name">OHRMApplicaationData</span>
+                  <em>
+(OHRM Application Data)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="OHRMApplicationData">
+                  </a> <!-- OHRMApplicationData -->
+                  <span class="method-name">OHRMApplicationData</span>
+                  <em>
+(OrangeHRMAapplication Data)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validatingOHRMData">
+                  </a> <!-- validatingOHRMData -->
+                  <span class="method-name">validatingOHRMData</span>
+                  <em>
+(Validating the OHRM Data)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-OrangeHRMapplication-class-passed -->
+          <div class="suite-OrangeHRMapplication-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="capturingAddEmployeeList">
+                  </a> <!-- capturingAddEmployeeList -->
+                  <span class="method-name">capturingAddEmployeeList</span>
+                  <em>
+(OrangeHRM Application Capturing AddEmployeeList)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-OrangeHRMapplication-class-passed -->
+        </div> <!-- panel OrangeHRMapplication -->
+        <div panel-name="test-xml-OrangeHRMapplication" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\Mounika\eclipse-workspace\MavenOrangeHRM\TestNG.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite parallel=&quot;tests&quot; name=&quot;OrangeHRMapplication&quot;&gt;
+  &lt;test thread-count=&quot;5&quot; parallel=&quot;tests&quot; name=&quot;Login Test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Login Test --&gt;
+  &lt;test thread-count=&quot;5&quot; parallel=&quot;tests&quot; name=&quot;AddEmployee&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- AddEmployee --&gt;
+  &lt;test thread-count=&quot;5&quot; parallel=&quot;tests&quot; name=&quot;AddEmployee List&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- AddEmployee List --&gt;
+&lt;/suite&gt; &lt;!-- OrangeHRMapplication --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-OrangeHRMapplication" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for OrangeHRMapplication</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Login Test (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">AddEmployee (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">AddEmployee List (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-OrangeHRMapplication" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for OrangeHRMapplication</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-OrangeHRMapplication" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for OrangeHRMapplication</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_OrangeHRMapplication');
+function tableData_OrangeHRMapplication() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(14);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'validatingOHRMData')
+data.setCell(0, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest')
+data.setCell(0, 3, 38605);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'validatingAddEmployeeDetails')
+data.setCell(1, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(1, 3, 23992);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'capturingAddEmployeeList')
+data.setCell(2, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest')
+data.setCell(2, 3, 6554);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'loginTheOrangeHRM')
+data.setCell(3, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(3, 3, 2062);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'OrangeHRMPIMPage')
+data.setCell(4, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(4, 3, 933);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'OHRMApplicationData')
+data.setCell(5, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest')
+data.setCell(5, 3, 931);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'logoutFunctionality')
+data.setCell(6, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(6, 3, 705);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'OrangeHRMlogindetails')
+data.setCell(7, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(7, 3, 391);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'OrangeHRMHomePageTextAdmin')
+data.setCell(8, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(8, 3, 172);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'addEmployeeValidating')
+data.setCell(9, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(9, 3, 99);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'loginPanelText')
+data.setCell(10, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(10, 3, 81);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'ValidatingTheEmployeeDetails')
+data.setCell(11, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(11, 3, 62);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'OrangeHRMTitle')
+data.setCell(12, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest')
+data.setCell(12, 3, 26);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'OHRMApplicaationData')
+data.setCell(13, 2, 'com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest')
+data.setCell(13, 3, 20);
+window.suiteTableData['OrangeHRMapplication']= { tableData: data, tableDiv: 'times-div-OrangeHRMapplication'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 42 seconds</span>
+              <div id="times-div-OrangeHRMapplication">
+              </div> <!-- times-div-OrangeHRMapplication -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-OrangeHRMapplication" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for OrangeHRMapplication</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-OrangeHRMapplication" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-OrangeHRMapplication" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">applicationLaunch</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">applicationLaunch</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">applicationLaunch</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">OHRMApplicationData</span>
+                <span class="method-start">2844 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">OrangeHRMlogindetails</span>
+                <span class="method-start">3342 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">capturingAddEmployeeList</span>
+                <span class="method-start">3379 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">OrangeHRMTitle</span>
+                <span class="method-start">3740 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginTheOrangeHRM</span>
+                <span class="method-start">3767 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">OHRMApplicaationData</span>
+                <span class="method-start">3779 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validatingOHRMData</span>
+                <span class="method-start">3803 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">OrangeHRMHomePageTextAdmin</span>
+                <span class="method-start">5830 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">OrangeHRMPIMPage</span>
+                <span class="method-start">6003 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">addEmployeeValidating</span>
+                <span class="method-start">6937 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validatingAddEmployeeDetails</span>
+                <span class="method-start">7037 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">applicationClose</span>
+                <span class="method-start">9936 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">ValidatingTheEmployeeDetails</span>
+                <span class="method-start">31031 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">logoutFunctionality</span>
+                <span class="method-start">31095 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">loginPanelText</span>
+                <span class="method-start">31800 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">applicationClose</span>
+                <span class="method-start">31882 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">applicationClose</span>
+                <span class="method-start">42409 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

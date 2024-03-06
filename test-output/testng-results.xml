@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T13:01:07 IST" name="OrangeHRMapplication" finished-at="2024-03-05T13:01:49 IST" duration-ms="42571">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T13:01:07 IST" name="AddEmployee List" finished-at="2024-03-05T13:01:17 IST" duration-ms="10247">
+      <class name="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest@1d2adfbe]" started-at="2024-03-05T13:01:07 IST" name="applicationLaunch" finished-at="2024-03-05T13:01:10 IST" duration-ms="3378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="capturingAddEmployeeList()[pri:1, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest@1d2adfbe]" started-at="2024-03-05T13:01:10 IST" name="capturingAddEmployeeList" description="OrangeHRM Application Capturing AddEmployeeList" finished-at="2024-03-05T13:01:17 IST" duration-ms="6554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturingAddEmployeeList -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest@1d2adfbe]" started-at="2024-03-05T13:01:17 IST" name="applicationClose" finished-at="2024-03-05T13:01:17 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+      </class> <!-- com.OrangeHRMApplicationTestCases.OrangeHRMApplication_EmployeeListTest -->
+    </test> <!-- AddEmployee List -->
+    <test started-at="2024-03-05T13:01:07 IST" name="AddEmployee" finished-at="2024-03-05T13:01:39 IST" duration-ms="32039">
+      <class name="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:07 IST" name="applicationLaunch" finished-at="2024-03-05T13:01:10 IST" duration-ms="3341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="OrangeHRMlogindetails()[pri:1, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:10 IST" name="OrangeHRMlogindetails" description="OrangeHRM Application Login Details" finished-at="2024-03-05T13:01:10 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangeHRMlogindetails -->
+        <test-method signature="OrangeHRMTitle()[pri:2, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:10 IST" name="OrangeHRMTitle" description="OrangeHRM Application Title Validating" finished-at="2024-03-05T13:01:10 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangeHRMTitle -->
+        <test-method signature="loginTheOrangeHRM()[pri:3, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:10 IST" name="loginTheOrangeHRM" description="OrangeHRM LoginPage Login" finished-at="2024-03-05T13:01:12 IST" duration-ms="2062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTheOrangeHRM -->
+        <test-method signature="OrangeHRMHomePageTextAdmin()[pri:4, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:12 IST" name="OrangeHRMHomePageTextAdmin" description="OrangeHRM Home Page Text Admin" finished-at="2024-03-05T13:01:13 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangeHRMHomePageTextAdmin -->
+        <test-method signature="OrangeHRMPIMPage()[pri:5, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:13 IST" name="OrangeHRMPIMPage" description="OrangeHRM PIM Page" finished-at="2024-03-05T13:01:14 IST" duration-ms="933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrangeHRMPIMPage -->
+        <test-method signature="addEmployeeValidating()[pri:6, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:14 IST" name="addEmployeeValidating" description="Add Employee Validating" finished-at="2024-03-05T13:01:14 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeeValidating -->
+        <test-method signature="validatingAddEmployeeDetails()[pri:7, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:14 IST" name="validatingAddEmployeeDetails" description="validating Add Employee Details" finished-at="2024-03-05T13:01:38 IST" duration-ms="23992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingAddEmployeeDetails -->
+        <test-method signature="ValidatingTheEmployeeDetails()[pri:8, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:38 IST" name="ValidatingTheEmployeeDetails" description="Validating the Employee Details" finished-at="2024-03-05T13:01:38 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingTheEmployeeDetails -->
+        <test-method signature="logoutFunctionality()[pri:9, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:38 IST" name="logoutFunctionality" description="OrangeHRM Home Page LogOut Functionality" finished-at="2024-03-05T13:01:38 IST" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFunctionality -->
+        <test-method signature="loginPanelText()[pri:10, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:38 IST" name="loginPanelText" description="OrangeHRM Login Page LOGIN Panel Text" finished-at="2024-03-05T13:01:38 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPanelText -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest@35cabb2a]" started-at="2024-03-05T13:01:38 IST" name="applicationClose" finished-at="2024-03-05T13:01:39 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+      </class> <!-- com.OrangeHRMApplicationTestCases.OrangeHRMApplication_AddEmployeeTest -->
+    </test> <!-- AddEmployee -->
+    <test started-at="2024-03-05T13:01:07 IST" name="Login Test" finished-at="2024-03-05T13:01:49 IST" duration-ms="42570">
+      <class name="com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest">
+        <test-method is-config="true" signature="applicationLaunch()[pri:0, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest@40ef3420]" started-at="2024-03-05T13:01:07 IST" name="applicationLaunch" finished-at="2024-03-05T13:01:09 IST" duration-ms="2823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationLaunch -->
+        <test-method signature="OHRMApplicationData()[pri:1, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest@40ef3420]" started-at="2024-03-05T13:01:09 IST" name="OHRMApplicationData" description="OrangeHRMAapplication Data" finished-at="2024-03-05T13:01:10 IST" duration-ms="931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OHRMApplicationData -->
+        <test-method signature="OHRMApplicaationData()[pri:2, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest@40ef3420]" started-at="2024-03-05T13:01:10 IST" name="OHRMApplicaationData" description="OHRM Application Data" finished-at="2024-03-05T13:01:10 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OHRMApplicaationData -->
+        <test-method signature="validatingOHRMData()[pri:3, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest@40ef3420]" started-at="2024-03-05T13:01:10 IST" name="validatingOHRMData" description="Validating the OHRM Data" finished-at="2024-03-05T13:01:49 IST" duration-ms="38605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingOHRMData -->
+        <test-method is-config="true" signature="applicationClose()[pri:0, instance:com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest@40ef3420]" started-at="2024-03-05T13:01:49 IST" name="applicationClose" finished-at="2024-03-05T13:01:49 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applicationClose -->
+      </class> <!-- com.OrangeHRMApplicationTestCases.OrangeHRMApplication_LogInTest -->
+    </test> <!-- Login Test -->
+  </suite> <!-- OrangeHRMapplication -->
+</testng-results>
